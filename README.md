@@ -2,6 +2,8 @@
 ### Ciao sono Francesco Pio di Pippa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Studio informatica presso l'Università degli Studi di Salerno 💻
 
+📫 Potete contattarmi qui: dipippa.francescopio@gmail.com
+
 
 ### 📚 Skills
 ### Linguaggi di programmazione
